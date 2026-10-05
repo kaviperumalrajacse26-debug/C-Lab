@@ -2,7 +2,7 @@
 int main()
 {
    int a,b,res,choice;
-   printf("=====BITWISE OPERATIONS=====\N");
+   printf("=====BITWISE OPERATIONS=====\n");
    printf("enter the first number:");
    scanf("%d",&a);
    printf("enter the second number:");
@@ -20,8 +20,8 @@ int main()
    {
      case 1:
      
-     res = a&b:
-     printf("Bitwise AND Result = 5D,RES);
+     res = a&b;
+     printf("Bitwise AND Result =%d",res);
      break;
      
      case 2:
